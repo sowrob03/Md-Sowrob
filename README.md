@@ -1,4 +1,4 @@
-![I am sowrob03](https://github.com/sowrob03/sowrob03/blob/main/code.png)
+![I am sowrob03](https://github.com/sowrob03/Md-Sowrob/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Md. Sowrob Hossen</h1>
 <h3 align="center">Programmer | Web Designer | Entrepreneurial spirit| Optimistic learner</h3>
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=sowrob03&color=aqua)
+![Profile views](https://komarev.com/ghpvc/?username=sowrob03&color="aqua")
 
 Skills: C / PYTHON / BOOTSTRAP / REACT / JS / HTML5 / CSS3
 
