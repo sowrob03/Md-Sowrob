@@ -22,7 +22,7 @@ Skills: C / PYTHON / BOOTSTRAP / REACT / JS / HTML5 / CSS3
 
 - 📫 How to reach me **sowrob270@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:[https://lnk.bio/sowrob)
 
 <h3 align="left">Connect with me:</h3>
 
