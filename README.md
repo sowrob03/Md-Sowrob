@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=sowrob03&color="aqua")
+![Profile views](https://komarev.com/ghpvc/?username=sowrob03&color=red)
 
 Skills: C / PYTHON / BOOTSTRAP / REACT / JS / HTML5 / CSS3
 
@@ -95,9 +95,6 @@ Skills: C / PYTHON / BOOTSTRAP / REACT / JS / HTML5 / CSS3
 
 <div align="center">
 <br/>
-<a href="#" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
 <a href="https://www.linkedin.com/in/md-sowrob-a8a935267/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
